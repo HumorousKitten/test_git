@@ -3,3 +3,6 @@ while True:
 
 def weather():
 	print('weatherrrrrr')
+
+def pay():
+	print('paid')

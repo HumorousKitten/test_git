@@ -15,3 +15,7 @@ def main():
 
 def weather():
 	print('weather')
+
+def pay():
+	print('pay')
+
