@@ -5,6 +5,10 @@ for i in range(10):
 
 print('dfdfdfddf')
 
+def feature():
+	while True:
+		print('fddfdfdf')
+
 def main():
 	for i in range(10):
 		print('dfdfdf')
